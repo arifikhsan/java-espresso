@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Java Espresso</string>
+    <string name="dont_touch_me">dont touch me</string>
+    <string name="a_simple_button">a simple button</string>
+</resources>
